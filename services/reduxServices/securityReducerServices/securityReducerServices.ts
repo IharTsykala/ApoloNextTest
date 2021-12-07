@@ -1,0 +1,1 @@
+export const getLogInUserStatus = (status: boolean) => status
